@@ -1,0 +1,6 @@
+numpy==1.20.1
+pandas
+tqdm
+torch==1.7.1
+tensorboard_logger
+sklearn
